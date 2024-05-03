@@ -40,7 +40,7 @@ matplotlib==3.5.3
 msgpack==1.0.4
 msgpack-numpy==0.4.8
 nltk==3.7
-numpy==1.19.5
+numpy==1.21.2
 oauthlib==3.2.1
 opencv-contrib-python==4.8.1.78
 opt-einsum==3.3.0
@@ -82,11 +82,4 @@ wincertstore==0.2
 wrapt==1.14.1
 zipp==3.8.1
 
-numpy>=1.19.5,<1.21.2
-h5py
-keras-applications
-keras-preprocessing
-matplotlib
-msgpack-numpy
-opencv-contrib-python
 
