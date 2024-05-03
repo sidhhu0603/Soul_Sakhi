@@ -81,3 +81,12 @@ Werkzeug==1.0.1
 wincertstore==0.2
 wrapt==1.14.1
 zipp==3.8.1
+
+numpy>=1.19.5,<1.21.2
+h5py
+keras-applications
+keras-preprocessing
+matplotlib
+msgpack-numpy
+opencv-contrib-python
+
